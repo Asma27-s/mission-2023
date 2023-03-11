@@ -1,11 +1,9 @@
-font-family: 'Roboto Condensed',
 body {
-    font-family: 'Roboto Condensed', sans-serif;
-    margin: 0;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 50px;
     padding-left: 15px;
 }
 
@@ -45,4 +43,65 @@ p {
     border-radius: 5px;
     color: aliceblue;
     font-weight: 600;
+}
+
+.second-heading {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+span {
+    color: darkorchid;
+}
+
+.mission img {
+    width: 50%;
+    padding-top: 2px;
+    padding-bottom: 10px;
+
+}
+
+.mission {
+    width: 300px;
+    border: o solid;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #add8e65b;
+    margin-left: 150px;
+}
+
+.vission img {
+    width: 50%;
+    padding-top: 2px;
+    padding-bottom: 10px;
+
+}
+
+.vission {
+    width: 300px;
+    border: o solid;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgba(255, 105, 180, 0.295);
+    margin-left: 40px;
+}
+
+.goals img {
+    width: 50%;
+    padding-top: 2px;
+    padding-bottom: 10px;
+
+}
+
+.goals {
+    width: 300px;
+    border: o solid;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #f0e68c83;
+    margin-left: 40px;
 }
