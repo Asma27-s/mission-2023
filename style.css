@@ -21,8 +21,8 @@ h2 {
 
 .container {
     display: flex;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 }
 
@@ -50,7 +50,7 @@ p {
     padding: 10px 40px;
     border-radius: 5px;
     color: aliceblue;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .second-heading {
@@ -79,7 +79,7 @@ span {
     padding: 15px;
     border-radius: 20px;
     background-color: #add8e65b;
-    margin-left: 100px;
+    margin-left: 10px;
 }
 
 .vission img {
@@ -145,14 +145,19 @@ span {
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
-    background-size: 50%;
+    background-size: 60%;
 
 }
-
 
 #second-bg {
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 30%;
+}
+
+#bg-3 {
+    background-image: url(images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
 }
