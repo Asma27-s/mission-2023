@@ -10,6 +10,7 @@ h1 {
 h2 {
     font-size: 40px;
     color: rebeccapurple;
+    text-align: center;
 }
 
 .head {
@@ -23,7 +24,6 @@ h2 {
     display: flex;
     padding-left: 10%;
     padding-right: 10%;
-}
 }
 
 .head-color {
@@ -160,4 +160,24 @@ span {
     background-image: url(images/shapes/shape-7.png);
     background-repeat: no-repeat;
     background-size: 200px;
+}
+
+footer {
+    background-color: black;
+    margin-bottom: 0%;
+    height: 150%;
+    width: 100%;
+    padding-top: 2px;
+
+}
+
+.fot-para {
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+}
+
+
+.footer-font {
+    font-family: 'Rampart One', cursive;
 }
